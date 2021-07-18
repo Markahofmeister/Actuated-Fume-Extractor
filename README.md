@@ -6,6 +6,6 @@ I've never been satisfied with this solution. The devices one finds when searchi
 
 I decided to design & fabricate my own fume extractor addresses these problems using spare parts from old projects and machines. The result is a device that boasts more features than even the most popular and pricey fume extractors on the market, all while doing so at less than half the cost of the cheap ones. 
 
-![](FE_Final)
+![](media/FE_Final.jpg)
 
 More information is available on my website [here](https://www.markhofmeister.com/actuated-fume-extractor)
